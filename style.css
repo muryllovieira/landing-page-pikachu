@@ -24,6 +24,7 @@ body{
 }
 header{
     background-color: aqua;
+    height: 48px;
 
 }
 main{
